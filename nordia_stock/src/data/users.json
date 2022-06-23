@@ -1,0 +1,40 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "isim": "Hakan",
+        "username": "hakan",
+        "role": 1
+      },
+      {
+        "id": "2",
+        "isim": "Fatih",
+        "username": "Fatih",
+        "role": 1
+      },
+      {
+        "id": "3",
+        "isim": "Mücahit",
+        "username": "Mücahit",
+        "role": 1
+      },
+      {
+        "id": "4",
+        "isim": "Oğuz",
+        "username": "Oğuz",
+        "role": 1
+      },
+      {
+        "id": "5",
+        "isim": "Ahmet",
+        "username": "Ahmet",
+        "role": 1
+      },
+      {
+        "id": "5",
+        "isim": "Ali",
+        "username": "Ali",
+        "role": 1
+      }
+    ]
+  }
